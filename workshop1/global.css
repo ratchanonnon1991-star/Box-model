@@ -1,0 +1,27 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Playpen+Sans+Thai:wght@100..800&display=swap'); */
+nav.next a.back {
+border: 1px solid #cdb5e1;
+text-decoration: none;
+padding: 6px 16px;
+display: inline-block;
+margin: 10px auto;
+background-color: chocolate;
+}
+/* tag a ทุกตัวที่อยู่ใน nav */
+/* กรณี inline จะไม่สามารถกำหนดขนาดได้ */
+
+nav a:hover {
+    background-color: aquamarine;
+}
+nav.next a.back:active {
+scale: 95%;
+}
+
+/* * {
+    font-family: "Thasadith" ;
+} */
+
+/* * {
+    font-family: Playpen Sans Thai;
+} */

@@ -1,0 +1,17 @@
+.class {
+    display: inline-block;
+border: 1px solid black;
+border-radius: 4px;
+padding: 3px;
+margin: 1px;
+font-size: medium;
+text-decoration: none;
+}
+
+.class:hover {
+background-color: rgb(238, 231, 231);
+}
+
+class:focus {
+    background-color: rgb(118, 118, 243);
+}

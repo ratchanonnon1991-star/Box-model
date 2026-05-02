@@ -1,0 +1,61 @@
+.wall {
+    border: 1px solid black;
+    padding: 10px;
+    width: 280px;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.name {
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+
+}
+.email {
+    margin-bottom: 10px;
+    width: 100%;
+        text-align: center;
+
+}
+
+button {
+    background-color: rgb(52, 52, 246);
+    color: white;
+    width: 100%;
+    height: 30px;
+    border-radius: 3px;
+    border: 0;
+    /* margin-left: 20px; */
+}
+
+.item {
+    padding: 5px;
+    margin: 0px auto;
+}
+
+h3 {
+    /* margin-top: 0px auto; */
+    margin: 10px auto;
+    font-size: 30px;
+text-align: center;
+    /* box-sizing: border-box; */
+    /* border: 100px; */
+}
+
+body {
+    margin: 30px;
+}
+
+button:active {
+    scale: 90%;
+    background-color: red;
+    color: black;
+}
+
+* {
+    box-sizing: border-box;
+margin: 0px;
+padding: 0px;
+}
+
